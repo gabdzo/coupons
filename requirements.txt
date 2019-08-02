@@ -1,0 +1,8 @@
+Django==2.1.5
+djangorestframework==3.9.2
+psycopg2==2.8.1
+pytz==2018.9
+sqlparse==0.3.0
+python-dateutil==2.7.5
+prices==0.5.9
+pycountry==18.12.8
